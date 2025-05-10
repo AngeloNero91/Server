@@ -1,0 +1,71 @@
+.obj/HB.o: HB.cpp stdafx.h ../../libthecore/include/stdafx.h \
+  ../../libthecore/include/typedef.h ../../libthecore/include/heart.h \
+  ../../libthecore/include/fdwatch.h ../../libthecore/include/socket.h \
+  ../../libthecore/include/kstbl.h ../../libthecore/include/hangul.h \
+  ../../libthecore/include/buffer.h ../../libthecore/include/signal.h \
+  ../../libthecore/include/log.h ../../libthecore/include/main.h \
+  ../../libthecore/include/utils.h ../../libthecore/include/crypt.h \
+  ../../libthecore/include/memcpy.h ../../common/length.h \
+  ../../common/CommonDefines.h ../../common/item_length.h \
+  ../../common/tables.h ../../common/singleton.h ../../common/utils.h \
+  ../../../External/include/msl/utils.h ../../common/stl.h \
+  ../../common/service.h HB.h Main.h DBManager.h \
+  /usr/local/include/mysql/mysql.h \
+  /usr/local/include/mysql/field_types.h \
+  /usr/local/include/mysql/my_list.h \
+  /usr/local/include/mysql/mysql_com.h \
+  /usr/local/include/mysql/my_command.h \
+  /usr/local/include/mysql/my_compress.h \
+  /usr/local/include/mysql/mysql/udf_registration_types.h \
+  /usr/local/include/mysql/mysql/client_plugin.h \
+  /usr/local/include/mysql/mysql/plugin_auth_common.h \
+  /usr/local/include/mysql/mysql_version.h \
+  /usr/local/include/mysql/mysql_time.h \
+  /usr/local/include/mysql/errmsg.h ../../libsql/AsyncSQL.h \
+  ../../libsql/../libthecore/include/stdafx.h \
+  ../../libsql/../libthecore/include/log.h \
+  /usr/local/include/mysql/mysqld_error.h ../../libsql/Semaphore.h
+stdafx.h:
+../../libthecore/include/stdafx.h:
+../../libthecore/include/typedef.h:
+../../libthecore/include/heart.h:
+../../libthecore/include/fdwatch.h:
+../../libthecore/include/socket.h:
+../../libthecore/include/kstbl.h:
+../../libthecore/include/hangul.h:
+../../libthecore/include/buffer.h:
+../../libthecore/include/signal.h:
+../../libthecore/include/log.h:
+../../libthecore/include/main.h:
+../../libthecore/include/utils.h:
+../../libthecore/include/crypt.h:
+../../libthecore/include/memcpy.h:
+../../common/length.h:
+../../common/CommonDefines.h:
+../../common/item_length.h:
+../../common/tables.h:
+../../common/singleton.h:
+../../common/utils.h:
+../../../External/include/msl/utils.h:
+../../common/stl.h:
+../../common/service.h:
+HB.h:
+Main.h:
+DBManager.h:
+/usr/local/include/mysql/mysql.h:
+/usr/local/include/mysql/field_types.h:
+/usr/local/include/mysql/my_list.h:
+/usr/local/include/mysql/mysql_com.h:
+/usr/local/include/mysql/my_command.h:
+/usr/local/include/mysql/my_compress.h:
+/usr/local/include/mysql/mysql/udf_registration_types.h:
+/usr/local/include/mysql/mysql/client_plugin.h:
+/usr/local/include/mysql/mysql/plugin_auth_common.h:
+/usr/local/include/mysql/mysql_version.h:
+/usr/local/include/mysql/mysql_time.h:
+/usr/local/include/mysql/errmsg.h:
+../../libsql/AsyncSQL.h:
+../../libsql/../libthecore/include/stdafx.h:
+../../libsql/../libthecore/include/log.h:
+/usr/local/include/mysql/mysqld_error.h:
+../../libsql/Semaphore.h:
